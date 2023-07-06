@@ -15,3 +15,34 @@ body {
     color: aquamarine;
     font-size: 16px;
 }
+
+.camp h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.camp p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+
+footer h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+footer a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+footer h4 {
+    color: gray;
+    text-align: right;
+    font-size: 35px;
+}
